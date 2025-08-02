@@ -2,8 +2,6 @@ using UnityEngine;
 
 namespace JamSeed.Foundation
 {
-    using UnityEngine;
-
     public abstract class SingletonMono<T> : MonoBehaviour where T : MonoBehaviour
     {
         private static T _instance;

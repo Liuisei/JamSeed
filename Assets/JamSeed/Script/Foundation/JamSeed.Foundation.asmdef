@@ -1,13 +1,15 @@
 {
     "name": "JamSeed.Foundation",
-    "rootNamespace": "",
-    "references": [],
+    "rootNamespace": "JamSeed.Foundation",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
