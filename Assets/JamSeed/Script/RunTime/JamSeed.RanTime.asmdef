@@ -1,0 +1,16 @@
+{
+    "name": "JamSeed.Runtime",
+    "rootNamespace": "JamSeed.Runtime",
+    "references": [
+        "GUID:fb78025de71470940a0c9e2e32a3262e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
