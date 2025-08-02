@@ -542,7 +542,10 @@ MonoBehaviour:
   startButton: {fileID: 129623676}
   hoverScaleDuration: 0.2
   normalScaleDuration: 0.2
+  colorChangeDuration: 0.15
   hoverScale: 1.2
+  hoverColor: {r: 0.76729554, g: 0.76729554, b: 0.76729554, a: 1}
+  pressedColor: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
