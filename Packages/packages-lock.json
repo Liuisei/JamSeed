@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "ccdc8ed974f6eb8acb1c39be634f4185646e3544"
     },
+    "com.cysharp.slnmerge": {
+      "version": "https://github.com/Cysharp/SlnMerge.git?path=src",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cba1a58035fb8067215650d4b582c5736457790a"
+    },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
@@ -258,6 +265,12 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "liu.magiconion.samples.jamseednet.shared.unity": {
+      "version": "file:../../JamSeedNet.Shared",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
